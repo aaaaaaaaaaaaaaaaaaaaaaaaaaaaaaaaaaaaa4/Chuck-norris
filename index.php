@@ -1,5 +1,0 @@
-<?php
-  $facts = array("Chuck Norris threw a grenade and killed 50 people, then it exploded.", "Chuck Norris can strangle you with a cordless phone.", "Death once had a near-Chuck-Norris experience.", "Chuck Norris can kill two stones with one bird.", "Chuck Norris doesn't dial the wrong number, you pick up the wrong phone.", "Chuck Norris can kill your imaginary friends.", "Chuck Norris can hear sign language.", "Chuck Norris makes onions cry.", "Chuck Norris counted to infinity. Twice.", "Chuck Norris beat the sun in a staring contest.", "Chuck Norris is the reason Waldo is hiding.", "Brett Favre can throw a football over 50 yards. Chuck Norris can throw Brett Favre even further.", "It is considered a great accomplishment to go down Niagara Falls in a wooden barrel. Chuck Norris can go up Niagara Falls in a cardboard box.", "When Chuck Norris enters a room, he doesn't turn the lights on, he turns the dark off.", "Chuck Norris can build a snowman out of rain.")
-  $randomNumber = rand(1,sizeof($facts));
-  echo facts[$randomNumber]
-?>
